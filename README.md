@@ -1,4 +1,4 @@
-👋 Hi, I’m @YKirianova
+👋 Hi, I’m @Yulia
 👀 I’m interested in data science, machine learning, and software development. I'm passionate about using technology to solve real-world problems and improve people's lives.
 🌱 I’m currently learning Python, focusing on developing simple projects for future study of machine learning and data analysis. I'm also exploring different Python libraries and frameworks.
 💞️ I’m looking to collaborate on open-source projects related to data science, machine learning, or any interesting Python projects where I can contribute and learn.
